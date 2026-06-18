@@ -1,0 +1,38 @@
+h1{
+
+text-align: center;
+text-decoration-line: underline;
+}
+
+#shipping{
+
+color: greenyellow;
+}
+
+
+#paragraph1{
+
+    font-weight: bolder;
+
+}
+
+
+.main{
+
+    font-style: italic;
+}
+
+#membership{
+   background-color: yellow;
+margin: 50px;
+padding: 30px;
+border-radius: 20px;
+}
+
+#services{
+display: flex;
+gap: 20px;
+
+
+}
+
